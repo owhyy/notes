@@ -1,0 +1,3 @@
+- You can only acces the *keys*, but not the *values*
+- Cool feature - saving to disk is smart by default (saves the database every 60 seconds if 1000+ keys were changed, all the way to 15 minutes if 9 changed). Untill written to disk, everything is kept in RAM
+- *Append-only* means that you can only add(*insert*) data

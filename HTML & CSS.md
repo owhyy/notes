@@ -1,0 +1,1 @@
+- *DOM* is the tree of a page (which html elements are inside which html elements)
